@@ -1,0 +1,8 @@
+.segment {
+    width: fit-content;
+    padding: 0 !important;
+}
+
+.card>* {
+    border: none !important;
+}

@@ -1,0 +1,11 @@
+.modal {
+    width: 400px !important;
+    height: 300px !important;
+}
+
+.trigger {
+    width: 100%;
+    background-color: transparent;
+    height: 100px;
+    background-color: transparent;
+}
